@@ -9,3 +9,32 @@ Group Members:
 Yiğit Gürses 
 Melisa Taşpınar 
 Mahmut Yurt 
+
+# Dataset
+
+you can download the dataset by using:
+
+bash download_shapenet_part16_catagories.sh
+
+on the file 'download_shapenet_part16_catagories.sh' in the dataset folder. The dataset is the same with the one used in PFNet:
+https://github.com/zztianzz/PF-Net-Point-Fractal-Network
+
+alternative link: 链接：https://pan.baidu.com/s/1MavAO_GHa0a6BZh4Oaogug 提取码：3hoe 
+
+# Installation and running
+
+After downloading the dataset and installing all the packages in 'requirements.txt' you need to install the extensions for cuda by doing the following:
+
+-cd to extensions folder, for each of 'chamfer_dist', 'cubic_feature_sampling', 'gridding', 'gridding_loss':
+  -cd to that folder
+  -run: python setup.py install --user
+  
+The extensions and the baseline architecture was taken from GRNet:
+https://github.com/hzxie/GRNet
+
+After you are done with the installations, you can cd to the project folder and run:
+python runner.py
+
+In order to change training modes and class categories, refer to 'train.py' in the folder 'core'.
+
+
