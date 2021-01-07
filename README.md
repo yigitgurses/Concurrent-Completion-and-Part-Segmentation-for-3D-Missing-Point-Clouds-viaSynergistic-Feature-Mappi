@@ -1,4 +1,4 @@
-# Concurrent-Completion-and-Part-Segmentation-for-3D-Missing-Point-Clouds-viaSynergistic-Feature-Mappig
+# Concurrent-Completion-and-Part-Segmentation-for-3D-Missing-Point-Clouds-viaSynergistic-Feature-Mapping
 
 We are GroupPointCloud from CS484-555 (Bilkent University - Fall 2020). Here is a brief description of our project:
 
