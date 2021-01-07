@@ -10,6 +10,10 @@ Yiğit Gürses
 Melisa Taşpınar 
 Mahmut Yurt 
 
+# Proposed Architecture
+
+![Proposed Architecture]main-fig.png
+
 # Dataset
 
 you can download the dataset by using:
