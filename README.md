@@ -12,7 +12,7 @@ Mahmut Yurt
 
 # Proposed Architecture
 
-![Proposed Architecture](./main-fig.png)
+![Proposed Architecture](main-fig.png)
 
 # Dataset
 
