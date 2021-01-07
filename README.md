@@ -30,7 +30,9 @@ alternative link: 链接：https://pan.baidu.com/s/1MavAO_GHa0a6BZh4Oaogug 提�
 After downloading the dataset and installing all the packages in 'requirements.txt' you need to install the extensions for cuda by doing the following:
 
 -cd to extensions folder, for each of 'chamfer_dist', 'cubic_feature_sampling', 'gridding', 'gridding_loss':
+  
   -cd to that folder
+  
   -run: python setup.py install --user
   
 The extensions and the baseline architecture was taken from GRNet:
